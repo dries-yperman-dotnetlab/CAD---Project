@@ -1,0 +1,15 @@
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Application\bin\Debug\net7.0\CandidateAssessmentDashboard.Application.deps.json
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Application\bin\Debug\net7.0\CandidateAssessmentDashboard.Application.dll
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Application\bin\Debug\net7.0\CandidateAssessmentDashboard.Application.pdb
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Application\bin\Debug\net7.0\CandidateAssessmentDashboard.Domain.dll
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Application\bin\Debug\net7.0\CandidateAssessmentDashboard.Domain.pdb
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Application\obj\Debug\net7.0\CandidateAssessmentDashboard.Application.csproj.AssemblyReference.cache
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Application\obj\Debug\net7.0\CandidateAssessmentDashboard.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Application\obj\Debug\net7.0\CandidateAssessmentDashboard.Application.AssemblyInfoInputs.cache
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Application\obj\Debug\net7.0\CandidateAssessmentDashboard.Application.AssemblyInfo.cs
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Application\obj\Debug\net7.0\CandidateAssessmentDashboard.Application.csproj.CoreCompileInputs.cache
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Application\obj\Debug\net7.0\CandidateAssessmentDashboard.Application.csproj.CopyComplete
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Application\obj\Debug\net7.0\CandidateAssessmentDashboard.Application.dll
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Application\obj\Debug\net7.0\refint\CandidateAssessmentDashboard.Application.dll
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Application\obj\Debug\net7.0\CandidateAssessmentDashboard.Application.pdb
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Application\obj\Debug\net7.0\ref\CandidateAssessmentDashboard.Application.dll
