@@ -1,0 +1,12 @@
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Domain\bin\Debug\net7.0\CandidateAssessmentDashboard.Domain.deps.json
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Domain\bin\Debug\net7.0\CandidateAssessmentDashboard.Domain.dll
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Domain\bin\Debug\net7.0\CandidateAssessmentDashboard.Domain.pdb
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Domain\obj\Debug\net7.0\CandidateAssessmentDashboard.Domain.csproj.AssemblyReference.cache
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Domain\obj\Debug\net7.0\CandidateAssessmentDashboard.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Domain\obj\Debug\net7.0\CandidateAssessmentDashboard.Domain.AssemblyInfoInputs.cache
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Domain\obj\Debug\net7.0\CandidateAssessmentDashboard.Domain.AssemblyInfo.cs
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Domain\obj\Debug\net7.0\CandidateAssessmentDashboard.Domain.csproj.CoreCompileInputs.cache
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Domain\obj\Debug\net7.0\CandidateAssessmentDashboard.Domain.dll
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Domain\obj\Debug\net7.0\refint\CandidateAssessmentDashboard.Domain.dll
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Domain\obj\Debug\net7.0\CandidateAssessmentDashboard.Domain.pdb
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Domain\obj\Debug\net7.0\ref\CandidateAssessmentDashboard.Domain.dll
