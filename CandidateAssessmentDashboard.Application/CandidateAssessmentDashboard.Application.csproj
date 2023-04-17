@@ -7,18 +7,24 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Features\BelbinTest TODO\**" />
+    <Compile Remove="Features\TeamworkPersonaTest TODO\**" />
+    <EmbeddedResource Remove="Features\BelbinTest TODO\**" />
+    <EmbeddedResource Remove="Features\TeamworkPersonaTest TODO\**" />
+    <None Remove="Features\BelbinTest TODO\**" />
+    <None Remove="Features\TeamworkPersonaTest TODO\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\CandidateAssessmentDashboard.Domain\CandidateAssessmentDashboard.Domain.csproj" />
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="AutoMapper" Version="12.0.1" />
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="FluentValidation" Version="11.5.2" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.5.2" />
     <PackageReference Include="MediatR" Version="12.0.1" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Features\BelbinTest TODO\" />
-    <Folder Include="Features\TeamworkPersonaTest TODO\" />
   </ItemGroup>
 
 </Project>

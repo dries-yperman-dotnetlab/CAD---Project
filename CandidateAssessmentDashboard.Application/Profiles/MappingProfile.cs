@@ -40,6 +40,8 @@ namespace CandidateAssessmentDashboard.Application.Profiles
             CreateMap<Recruiter, DeleteRecruiterCommand>().ReverseMap();
             CreateMap<Recruiter, CreateRecruiterCommand>().ReverseMap();
 
+            CreateMap<Recruiter, CreateRecruiterDto>();
+
             // Candidate
             CreateMap<Candidate, CandidateListVm>();
             CreateMap<Candidate, CandidateDetailVm>();

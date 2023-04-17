@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "yX0ConMn/xKJ/ny+2Mpb6AbaX51ftT//mU7M9K8sDx8M/s298+XTKmACb9YMmLJDj2/rsEQJAl+Dpi6sDj+FYA==",
+  "dgSpecHash": "aiWdSaMx4MDJ1emg9bcpmFN5PrJPf/bbcBemJCqzff4PKRBD2s9I/nwNrGRaWzGhLuTbhi44D1M1ikBMFKtN0Q==",
   "success": true,
   "projectFilePath": "D:\\DOTnet\\CAD - Project\\CandidateAssessmentDashboard.Application\\CandidateAssessmentDashboard.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dries\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\dries\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\dries\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
+    "C:\\Users\\dries\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.2\\fluentvalidation.dependencyinjectionextensions.11.5.2.nupkg.sha512",
     "C:\\Users\\dries\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
     "C:\\Users\\dries\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\dries\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
