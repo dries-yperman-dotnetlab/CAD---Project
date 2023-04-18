@@ -1,0 +1,17 @@
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Persistence\bin\Debug\net7.0\CandidateAssessmentDashboard.Persistence.deps.json
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Persistence\bin\Debug\net7.0\CandidateAssessmentDashboard.Persistence.dll
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Persistence\bin\Debug\net7.0\CandidateAssessmentDashboard.Persistence.pdb
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Persistence\bin\Debug\net7.0\CandidateAssessmentDashboard.Application.dll
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Persistence\bin\Debug\net7.0\CandidateAssessmentDashboard.Domain.dll
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Persistence\bin\Debug\net7.0\CandidateAssessmentDashboard.Application.pdb
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Persistence\bin\Debug\net7.0\CandidateAssessmentDashboard.Domain.pdb
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Persistence\obj\Debug\net7.0\CandidateAssessmentDashboard.Persistence.csproj.AssemblyReference.cache
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Persistence\obj\Debug\net7.0\CandidateAssessmentDashboard.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Persistence\obj\Debug\net7.0\CandidateAssessmentDashboard.Persistence.AssemblyInfoInputs.cache
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Persistence\obj\Debug\net7.0\CandidateAssessmentDashboard.Persistence.AssemblyInfo.cs
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Persistence\obj\Debug\net7.0\CandidateAssessmentDashboard.Persistence.csproj.CoreCompileInputs.cache
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Persistence\obj\Debug\net7.0\CandidateAssessmentDashboard.Persistence.csproj.CopyComplete
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Persistence\obj\Debug\net7.0\CandidateAssessmentDashboard.Persistence.dll
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Persistence\obj\Debug\net7.0\refint\CandidateAssessmentDashboard.Persistence.dll
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Persistence\obj\Debug\net7.0\CandidateAssessmentDashboard.Persistence.pdb
+D:\DOTnet\CAD - Project\CandidateAssessmentDashboard.Persistence\obj\Debug\net7.0\ref\CandidateAssessmentDashboard.Persistence.dll
